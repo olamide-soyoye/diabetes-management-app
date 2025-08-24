@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "A comprehensive diabetes management application for Type 2 diabetes patients",
   "private": true,
+  "homepage": "https://github.com/maxie9049/diabetes-management-app.git",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -14,6 +19,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.17"
   },
