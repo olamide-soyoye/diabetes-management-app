@@ -3,11 +3,7 @@
   "version": "1.0.0",
   "description": "A comprehensive diabetes management application for Type 2 diabetes patients",
   "private": true,
-  "homepage": "https://github.com/maxie9049/diabetes-management-app.git",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
+  "homepage": "https://lucent-panda-cef976.netlify.app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
