@@ -1,0 +1,8 @@
+{
+  "short_name": "Diabetes App",
+  "name": "Diabetes Management Application",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#dbeafe"
+}
