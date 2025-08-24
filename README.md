@@ -113,4 +113,3 @@ npm run lint
 **Target Audience**: Type 2 diabetes patients (ages 18-65)  
 **Platform**: Web browsers with JavaScript support  
 **Dependencies**: React 18+, Tailwind CSS, Lucide React icons
-<!-- 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 -->
